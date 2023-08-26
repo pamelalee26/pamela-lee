@@ -1,9 +1,6 @@
 # Hi there, I'm Pamela 👋
 
-I'm a passionate developer with a love for coding and problem-solving. Welcome to my GitHub profile!
-
-🔭 **Currently Working On:**
-- 
+I'm a penultimate Computer Science student at Nanyang Technological University. I am a passionate developer with a love for coding and problem-solving. Welcome to my GitHub profile! I enjoy data science and software development. 
 
 🌱 **Currently Learning:**
 - Exploring advanced CSS techniques for responsive design.
@@ -17,11 +14,6 @@ I'm a passionate developer with a love for coding and problem-solving. Welcome t
 
 ⚡ **Fun Fact:**
 I'm also enjoy playing video games!
-
----
-
-## GitHub Stats
-
 
 ---
 
