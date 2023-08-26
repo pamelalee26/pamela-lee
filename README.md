@@ -3,7 +3,7 @@
 I'm a passionate developer with a love for coding and problem-solving. Welcome to my GitHub profile!
 
 🔭 **Currently Working On:**
-- Developing an awesome web application using React and Node.js.
+- 
 
 🌱 **Currently Learning:**
 - Exploring advanced CSS techniques for responsive design.
@@ -13,7 +13,7 @@ I'm a passionate developer with a love for coding and problem-solving. Welcome t
 
 📫 **How to Reach Me:**
 - Email: pamela26june@gmail.com
-- Linkedin: https://www.linkedin.com/in/pamela-lee-53560b185/
+- [Linkedin](https://www.linkedin.com/in/pamela-lee-53560b185/)
 
 ⚡ **Fun Fact:**
 I'm also enjoy playing video games!
