@@ -1,6 +1,6 @@
 # Hi there, I'm Pamela 👋
 
-I'm a penultimate Computer Science student at Nanyang Technological University. I am a passionate developer with a love for coding and problem-solving. Welcome to my GitHub profile! I enjoy data science and software development. 
+I'm a penultimate year Computer Science student at Nanyang Technological University, driven by a fervor for coding and the art of problem-solving. Step into my GitHub realm and explore my journey! My interests traverse the realms of data science and software development.
 
 🌱 **Currently Learning:**
 - Exploring advanced CSS techniques for responsive design.
