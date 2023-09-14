@@ -12,9 +12,6 @@ I'm a penultimate year Computer Science student at Nanyang Technological Univers
 - Email: pamela26june@gmail.com
 - [Linkedin](https://www.linkedin.com/in/pamela-lee-53560b185/)
 
-⚡ **Fun Fact:**
-I'm also enjoy playing video games!
-
 ---
 
 Thanks for visiting my profile! Connect with me to stay updated on my latest projects and adventures in coding.
